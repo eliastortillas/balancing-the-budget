@@ -47,6 +47,21 @@ html, body {
     padding: .5em;
 }
 
+.total_budget.warning{
+  color: #e8d82a;
+}
+
+.total_budget.error{
+  font-weight: bold;
+
+  color: #e00c0a;
+}
+
+.warning_text {
+  font-size: 1.5em;
+  padding: .5em
+}
+
 input {
     width: 100%;
     display: block;
